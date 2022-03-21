@@ -1,5 +1,5 @@
 ## Arvato Customer Segmentation Report - A Data Science Capstone Project
-Arvato is a company that provides financial services, Information Technology (IT) services, and Supply Chain Management (SCM) solutions for business customers on a global scale. It develops and implements innovative solutions with a focus on automation and data analytics.
+Arvato is an internationally active services company that develops and implements innovative solutions for business customers from around the world. These include SCM solutions, financial services and IT services, which are continuously developed with a focus on innovations in automation as well as data and analytics.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
